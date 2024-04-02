@@ -1,0 +1,62 @@
+{
+  "name": "frontend",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/styled": "^11.11.0",
+    "@fontsource/roboto": "^4.5.8",
+    "@heroicons/react": "^2.0.17",
+    "@iconify-icons/logos": "^1.2.33",
+    "@iconify/react": "^4.1.1",
+    "@material-tailwind/react": "^1.4.2",
+    "@material-ui/core": "^4.12.4",
+    "@material-ui/icons": "^4.11.3",
+    "@mui/icons-material": "^5.15.11",
+    "@mui/joy": "^5.0.0-beta.29",
+    "@mui/lab": "^5.0.0-alpha.136",
+    "@mui/material": "^5.15.11",
+    "axios": "^1.6.7",
+    "formik": "^2.4.2",
+    "js-cookie": "^3.0.5",
+    "jspdf": "^2.5.1",
+    "react": "^18.2.0",
+    "react-award": "^2.0.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^5.0.1",
+    "react-scripts": "5.0.1",
+    "react-scroll": "^1.8.9",
+    "react-window": "^1.8.10",
+    "recharts": "^2.12.1",
+    "tailwindcss": "^1.9.6",
+    "web-vitals": "^2.1.4",
+    "yup": "^1.2.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "build:css": "tailwindcss build global.css -o output.css"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "react-router-dom": "^6.11.2"
+  }
+}
