@@ -15,10 +15,10 @@
 <br>
 <br>
 
-![landing](https://github.com/ayasahmad7655/dearsister_demo_frontend/blob/0b6e6a2caaaa8d710b533e382b7fa44914a11b68/src/assests/About_US/Screenshot%202024-04-03%20043940.png)
-![stats](https://github.com/ayasahmad7655/dearsister_demo_frontend/blob/0b6e6a2caaaa8d710b533e382b7fa44914a11b68/src/assests/About_US/Screenshot%202024-04-03%20140849.png)
-![allJobs](https://github.com/ayasahmad7655/dearsister_demo_frontend/blob/0b6e6a2caaaa8d710b533e382b7fa44914a11b68/src/assests/About_US/Screenshot%202024-04-03%20044420.png)
-![addJobs](https://github.com/ayasahmad7655/dearsister_demo_frontend/blob/0b6e6a2caaaa8d710b533e382b7fa44914a11b68/src/assests/About_US/Screenshot%202024-04-03%20140815.png)
+![landing](https://user-images.githubusercontent.com/76480451/210046660-894b3928-ccc3-4efe-9160-33341549531a.png)
+![stats](https://user-images.githubusercontent.com/76480451/210046658-2809f5bb-6843-4719-91d0-9755474cb1cb.png)
+![allJobs](https://user-images.githubusercontent.com/76480451/210046652-800f5c65-fbdb-4689-bc09-f8b138b384c8.png)
+![addJobs](https://user-images.githubusercontent.com/76480451/210046661-44c6d3df-f7e3-4b61-a000-f10e045b9742.png)
 
 </div>
 
@@ -86,6 +86,12 @@ MERN Stack Web App for YouTuber's Channe (500k+ Subscribers):
 
 <!-- GETTING STARTED -->
 
+## Backend_Architect
+Dearsister.in leverages a robust Model-View-Controller (MVC) backend architecture for efficient data management, business logic execution, and dynamic content generation.
+
+![landing](https://user-images.githubusercontent.com/76480451/210046660-894b3928-ccc3-4efe-9160-33341549531a.png)
+
+
 ## To Contribute
 
 This project require some perquisites and dependencies to be installed, you can find the instructions below
@@ -100,7 +106,7 @@ This project require some perquisites and dependencies to be installed, you can 
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/abhishekchauhan15/JobWright.git
+     git clone https://github.com/ayasahmad7655/dearsister_demo_backend
    ```
 2. go to project folder
 
@@ -122,7 +128,7 @@ This project require some perquisites and dependencies to be installed, you can 
    ```
      PORT=8000
      MONGO_URL=<Your mongodb url>
-     JWT_LIFETIME=1d
+     ALLOWED_CORS_ORIGIN1=<frontend url>
      JWT_SECRET=<any secret value of your choice>
    ```
 
@@ -133,6 +139,9 @@ This project require some perquisites and dependencies to be installed, you can 
    ```
 
 ---
+### Video Showing How to use full WebApplication
+[![Watch the video](https://[EXTERNAL_PLATFORM_THUMBNAIL_URL])](https://drive.google.com/file/d/12f1fzRPoYzjTh3wtSMu-W2lY9Ug6DUog/view?usp=sharing)
+
 
 ### Ports and EndPoints
 
@@ -143,20 +152,20 @@ This project require some perquisites and dependencies to be installed, you can 
 
 #### API endpoints
 
-**Main URL**: [http://localhost:5000/api/v1](http://localhost:5000/api/v1)
+**Main URL**: [http://localhost:8000](http://localhost:8000/)
 
 - **Auth**
 
-  - Register User: [http://localhost:5000/api/v1/auth/register](http://localhost:5000/api/v1/auth/register) [POST]
-  - Register User: [http://localhost:5000/api/v1/auth/login](http://localhost:5000/api/v1/auth/login) [POST]
-  - Update User: [http://localhost:5000/api/v1/auth/updateUser](http://localhost:5000/api/v1/auth/updateUser) [PATCH]
+  - Register User: [http://localhost:8000/signup](http://localhost:8000/signup) [POST]
+  - Login  User: [http://localhost:8000/login](http://localhost:5000/api/v1/auth/login) [POST]
+  
 
-- **Jobs**
+- **Users**
 
-  - Get all jobs: [http://localhost:5000/api/v1/jobs?status=all&jobType=all&page=1](http://localhost:5000/api/v1/jobs?status=all&jobType=all&page=1) [GET]
-  - Create job: [http://localhost:5000/api/v1/jobs](http://localhost:5000/api/v1/jobs) [POST]
-  - Update job: [http://localhost:5000/api/v1/jobs/:id](http://localhost:5000/api/v1/jobs/:id) [PATCH]
-  - Delete job: [http://localhost:5000/api/v1/jobs/:id](http://localhost:5000/api/v1/jobs/:id) [DELETE]
-  - Get stats: [http://localhost:5000/api/v1/jobs/stats](http://localhost:5000/api/v1/jobs/stats) [Get]
-
+  - Get to Dasshboard: [http://localhost:8000/user]() [POST]
+  - Get The Quiz Data: [http://localhost:8000/quiz]() [POST]
+  - Getting the Qustion or Quiz : [http://localhost:8000/livequiz/:index]() [GET]
+  - Update the Number : [http://localhost:8000/sumbitanswer]() [PATCH]
+  - Quiz Added to Storage:       [http://localhost:8000/addquestion]() [POST]
+  - Quiz Added to Storage: [http://localhost:8000/driveupload]() [POST]
 <!-- [![Run in Postman](https://run.pstmn.io/button.svg)] -->
