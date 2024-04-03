@@ -1,4 +1,4 @@
-# JobWright
+# DearSister
 
 <div id="top"></div>
 
@@ -15,10 +15,10 @@
 <br>
 <br>
 
-![landing](https://user-images.githubusercontent.com/76480451/210046660-894b3928-ccc3-4efe-9160-33341549531a.png)
-![stats](https://user-images.githubusercontent.com/76480451/210046658-2809f5bb-6843-4719-91d0-9755474cb1cb.png)
-![allJobs](https://user-images.githubusercontent.com/76480451/210046652-800f5c65-fbdb-4689-bc09-f8b138b384c8.png)
-![addJobs](https://user-images.githubusercontent.com/76480451/210046661-44c6d3df-f7e3-4b61-a000-f10e045b9742.png)
+![landing](https://github.com/ayasahmad7655/dearsister_demo_frontend/blob/0b6e6a2caaaa8d710b533e382b7fa44914a11b68/src/assests/About_US/Screenshot%202024-04-03%20043940.png)
+![stats](https://github.com/ayasahmad7655/dearsister_demo_frontend/blob/0b6e6a2caaaa8d710b533e382b7fa44914a11b68/src/assests/About_US/Screenshot%202024-04-03%20140849.png)
+![allJobs](https://github.com/ayasahmad7655/dearsister_demo_frontend/blob/0b6e6a2caaaa8d710b533e382b7fa44914a11b68/src/assests/About_US/Screenshot%202024-04-03%20044420.png)
+![addJobs](https://github.com/ayasahmad7655/dearsister_demo_frontend/blob/0b6e6a2caaaa8d710b533e382b7fa44914a11b68/src/assests/About_US/Screenshot%202024-04-03%20140815.png)
 
 </div>
 
