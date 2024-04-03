@@ -15,10 +15,10 @@
 <br>
 <br>
 
-![landing](https://user-images.githubusercontent.com/76480451/210046660-894b3928-ccc3-4efe-9160-33341549531a.png)
-![stats](https://user-images.githubusercontent.com/76480451/210046658-2809f5bb-6843-4719-91d0-9755474cb1cb.png)
-![allJobs](https://user-images.githubusercontent.com/76480451/210046652-800f5c65-fbdb-4689-bc09-f8b138b384c8.png)
-![addJobs](https://user-images.githubusercontent.com/76480451/210046661-44c6d3df-f7e3-4b61-a000-f10e045b9742.png)
+![landing](https://github.com/ayasahmad7655/dearsister_demo_frontend/blob/da833a73646d4e6bae65da563d31e5ddfacd3ce2/src/assests/About_US/Screenshot%202024-04-03%20043940.png)
+![stats](https://github.com/ayasahmad7655/dearsister_demo_frontend/blob/da833a73646d4e6bae65da563d31e5ddfacd3ce2/src/assests/About_US/Screenshot%202024-04-03%20140849.png)
+![quizes](https://github.com/ayasahmad7655/dearsister_demo_frontend/blob/da833a73646d4e6bae65da563d31e5ddfacd3ce2/src/assests/About_US/Screenshot%202024-04-03%20044420.png)
+![QuiZLive](https://github.com/ayasahmad7655/dearsister_demo_frontend/blob/da833a73646d4e6bae65da563d31e5ddfacd3ce2/src/assests/About_US/Screenshot%202024-04-03%20140815.png)
 
 </div>
 
@@ -89,7 +89,7 @@ MERN Stack Web App for YouTuber's Channe (500k+ Subscribers):
 ## Backend_Architect
 Dearsister.in leverages a robust Model-View-Controller (MVC) backend architecture for efficient data management, business logic execution, and dynamic content generation.
 
-![landing](https://user-images.githubusercontent.com/76480451/210046660-894b3928-ccc3-4efe-9160-33341549531a.png)
+![Architecture](https://github.com/ayasahmad7655/dearsister_demo_frontend/blob/da833a73646d4e6bae65da563d31e5ddfacd3ce2/src/assests/About_US/Backend_architect.jpg)
 
 
 ## To Contribute
